@@ -1,16 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu May  4 21:46:49 2017
-
-@author: chait
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Apr 26 23:14:43 2017
-
-@author: chait
-"""
 import csv
 import bs4 as bs
 import urllib.request
